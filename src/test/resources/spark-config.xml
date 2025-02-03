@@ -1,0 +1,6 @@
+<extent>
+    <spark>
+        <css>src/test/resources/css/extent.css</css>
+        <js>src/test/resources/js/extent.js</js>
+    </spark>
+</extent>

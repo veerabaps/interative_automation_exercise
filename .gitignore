@@ -1,0 +1,14 @@
+# Ignore local reports directory
+test-output/
+target/
+.idea/
+*.iml
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.swp
+*.DS_Store
